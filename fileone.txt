@@ -3,5 +3,6 @@ This is the first commit
 This change is done in the my project branch
 
 This the feature branch code
+This code is added in the master branch to test stashing.
 
 Trying merge from feature to master
