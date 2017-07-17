@@ -1,3 +1,7 @@
 This is the first commit
 
 This change is done in the my project branch
+
+This the feature branch code
+
+Trying merge from feature to master
