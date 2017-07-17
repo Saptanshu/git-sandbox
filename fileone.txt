@@ -3,5 +3,5 @@ This is the first commit
 This change is done in the my project branch
 
 This the feature branch code
-
+This is the feature branch code for stashing example.
 Trying merge from feature to master
